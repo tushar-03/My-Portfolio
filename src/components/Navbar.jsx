@@ -57,7 +57,7 @@ const Navbar = () => {
           <div className="flex items-center justify-between">
             <div>
               <a href="#">
-                <img src={logo} alt="logo" width={90} className="m-2" />
+                <h2>TUSHAR</h2>
               </a>
             </div>
             <div className="flex items-center">

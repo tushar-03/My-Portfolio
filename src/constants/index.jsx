@@ -36,7 +36,7 @@ export const HERO = {
   name: "Tushar",
   greet: "Hello there! 👋🏻",
   description:
-    "I am a passionate Software Developer with a knack for creating beautiful and functional user interfaces. I like transforming ideas into engaging web experiences, I am proficient in both front end and back-end programming languages",
+    "I am a passionate Full-Stack Software Developer with over 1.4 years of experience in creating dynamic web applications and engaging multiplayer games. Proficient in modern technologies including React.js, Next.js, and Node.js, I specialize in developing both frontend and backend solutions. My expertise lies in crafting responsive user interfaces and ensuring seamless user experiences. Passionate about problem-solving and continuously learning, I stay updated with the latest industry trends. I thrive in collaborative environments and enjoy turning complex challenges into efficient solutions.",
 };
 
 export const PROJECTS = [
